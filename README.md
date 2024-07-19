@@ -1,7 +1,5 @@
 ## Sample Streamlit Dashboard - README
 
-This readme document provides an overview of the provided Streamlit code for a sample dashboard.
-
 **Functionality:**
 
 * This dashboard allows users to upload or use a sample dataset for sales analysis.
